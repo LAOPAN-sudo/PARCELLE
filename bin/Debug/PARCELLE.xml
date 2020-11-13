@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PARCELLE
+</name>
+</assembly>
+<members>
+<member name="T:PARCELLE.BD_GESTION_PARCELLEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PARCELLE.Helpers">
+	<summary>
+ Flat UI Theme
+ Creator: iSynthesis (HF)
+ Version: 1.0.4
+ Date Created: 17/06/2013
+ Date Changed: 26/06/2013
+ UID: 374648
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PARCELLE.FlatAlertBox.W">
+	<summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:PARCELLE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources._091104101547_1_900x600">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources._16153228_classic_house_design_progress_architectural_drawing_and_visualization">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.custom_agp_2_prod_splash">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.custom_agp_2_prod_splash1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.handshake_icon_vector_illustration_33796141">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.info_logo_dans_un_cercle_318_947">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.Utilisateur">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARCELLE.My.Resources.Resources.vers_le_haut_vers_le_bas_du_vecteur_de_flèche_52071212">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PARCELLE.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>
